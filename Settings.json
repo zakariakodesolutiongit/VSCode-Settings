@@ -3,7 +3,7 @@
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "prettier.proseWrap": "always",
-  "editor.formatOnPaste": true,
+  "editor.formatOnPaste": false,
   "editor.formatOnType": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[html]": {
