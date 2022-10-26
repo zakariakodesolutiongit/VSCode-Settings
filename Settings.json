@@ -49,9 +49,12 @@
   "editor.formatOnSave": false,
   // Enable per-language
   "[php]": {
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "editor.defaultFormatter": "kokororin.vscode-phpfmt"
   },
   "phpfmt.psr2": false,
-  "phpfmt.passes": ["AlignDoubleArrow","SpaceAroundParentheses"]
+  "phpfmt.passes": [
+    "AlignDoubleArrow",
+    "SpaceAroundParentheses"
+  ]
 }
