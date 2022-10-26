@@ -1,0 +1,57 @@
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.proseWrap": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#1E1F2B",
+    "activityBar.background": "#282A3A",
+    "sideBar.background": "#141422",
+    "minimap.background": "#20202e",
+    "tab.activeBackground": "#282A3A",
+    "tab.inactiveBackground": "#1E1F2B",
+    "terminal.border": "#1E1F2B",
+    "terminal.background": "#1E1F2B",
+    "statusBar.background": "#1E1F2B",
+    "scrollbarSlider.background": "#353748",
+    "scrollbarSlider.hoverBackground": "#4a4c5b"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#95afc0"
+  },
+  "editor.hover.enabled": false,
+  "window.zoomLevel": 0.5,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontSize": 20,
+  "diffEditor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.codeActionsOnSave": {},
+  "editor.mouseWheelZoom": true,
+  "workbench.settings.openDefaultKeybindings": true,
+  "editor.fontFamily": "Operator Mono",
+  "editor.rulers": [],
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false,
+  "phpfmt.php_bin": "\"E:\\works\\xampp\\php\\php.exe\"",
+  // Set the default
+  "editor.formatOnSave": false,
+  // Enable per-language
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  "phpfmt.psr2": false,
+  "phpfmt.passes": ["AlignDoubleArrow","SpaceAroundParentheses"]
+}
