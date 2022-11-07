@@ -3,6 +3,107 @@
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "prettier.proseWrap": "always",
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#1E1F2B",
+    "activityBar.background": "#282A3A",
+    "sideBar.background": "#141422",
+    "minimap.background": "#20202e",
+    "tab.activeBackground": "#282A3A",
+    "tab.inactiveBackground": "#1E1F2B",
+    "terminal.border": "#1E1F2B",
+    "terminal.background": "#1E1F2B",
+    "statusBar.background": "#1E1F2B",
+    "scrollbarSlider.background": "#353748",
+    "scrollbarSlider.hoverBackground": "#4a4c5b"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#95afc0"
+  },
+  "editor.hover.enabled": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontSize": 20,
+  "diffEditor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "Operator Mono",
+  "editor.rulers": [],
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "phpfmt.php_bin": "E:\\works\\xampp\\php\\php.exe",
+  "phpfmt.passes": [
+    "PSR2KeywordsLowerCase",
+    "PSR2LnAfterNamespace",
+    "PSR2CurlyOpenNextLine",
+    "PSR2ModifierVisibilityStaticOrder",
+    "ReindentSwitchBlocks",
+    "SpaceAroundParentheses"
+  ],
+  "phpfmt.exclude": ["ReindentComments", "AllmanStyleBraces"],
+  "phpfmt.psr2": false,
+  "phpfmt.indent_with_space": 2,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wrappingIndent": "indent",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {},
+  "files.trimTrailingWhitespace": true,
+  "window.zoomLevel": 0.6
+}
+=================================
+=========== 11-07-2022 ==========
+=================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.proseWrap": "always",
   "editor.formatOnPaste": false,
   "editor.formatOnType": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
